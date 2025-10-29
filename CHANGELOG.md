@@ -1,5 +1,18 @@
 # Changelog
 
+## 2.7.0 (2025-10-29)
+
+Full Changelog: [v2.6.1...v2.7.0](https://github.com/openai/openai-python/compare/v2.6.1...v2.7.0)
+
+### Features
+
+* **api:** remove InputAudio from ResponseInputContent ([bd70a33](https://github.com/openai/openai-python/commit/bd70a33234741fa68c185105e4f53cc0275a2a50))
+
+
+### Bug Fixes
+
+* **client:** close streams without requiring full consumption ([d8bb7d6](https://github.com/openai/openai-python/commit/d8bb7d6d728c5481de4198eebe668b67803ae14a))
+
 ## 2.6.1 (2025-10-24)
 
 Full Changelog: [v2.6.0...v2.6.1](https://github.com/openai/openai-python/compare/v2.6.0...v2.6.1)
